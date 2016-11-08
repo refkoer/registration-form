@@ -16,3 +16,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+form {
+  background-color: #fff;
+}
+
+label {
+  display: block;
+}
