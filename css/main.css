@@ -36,8 +36,9 @@ textarea {
   border: 1.5px solid #f2f2f2;
   padding: .3em;
 }
+
 textarea {
-  height: 8em;
+  height: 5em;
 }
 
 button {
